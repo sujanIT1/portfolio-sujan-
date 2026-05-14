@@ -88,7 +88,7 @@ export default function Hero() {
               View Projects
             </button>
             <a
-              href="/resume.pdf"
+              href="/sujan_raskoti_resume"
               download="Sujan_Raskoti_Resume.pdf"
               data-hover
               className="px-8 py-3.5 font-display font-semibold text-sm tracking-wide rounded-full transition-all duration-300"
