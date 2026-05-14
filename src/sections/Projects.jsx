@@ -20,6 +20,10 @@ const projects = [
     tagline:'Business Operations Tool',
     description:'A system designed to manage meat shop operations and workflow, streamlining day-to-day business processes with an intuitive management interface.',
     tech:['JavaScript','HTML','CSS'], live:null, accent:'#8c7f6e' },
+  { id:5, featured:true,  index:'05', label:'Featured Project', name:'Bhraman Nepal',
+    tagline:'Travel & Tourism Platform',
+    description:'A travel and tourism web application for exploring destinations across Nepal. Helps users discover beautiful places and plan their trips with an engaging and modern interface.',
+    tech:['React.js','JavaScript','CSS'], live:'https://bhraman-nepal.vercel.app', accent:'#c4601a' },
 ]
 
 function Card({ p, i, inView }) {
